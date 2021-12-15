@@ -1,0 +1,6 @@
+beras;12;10000
+minyak;13;6000
+telur;14;2500
+tepung;15;5000
+indomie;17;2500
+sambal;14;1000
